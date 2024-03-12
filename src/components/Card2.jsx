@@ -7,6 +7,7 @@ import Rec2 from '../assets/Rectangle2.png'
 import Rec4 from '../assets/footer4.png'
 import Rec5 from '../assets/Rectangle4.png'
 
+
 function Card2() {
     const cardData = [
       {image: pi1,title: 'Air Freight', content:'As a leader in global air freight forwarding, OIA Global excels in providing tailored transportation...'},
